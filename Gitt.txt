@@ -1,8 +1,3 @@
-hai this is upendra from banglore its  me meeeeeeeeeeee
-oghhhbhg
-,hhggkgkgkg
-jhjgjhgjhghj
-
 git init
 git add README.md
 git commit -m "first commit"
